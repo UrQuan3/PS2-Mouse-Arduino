@@ -5,7 +5,7 @@
 #include "WConstants.h"
 #endif
 
-#include "HardwareSerial.h"
+//#include "HardwareSerial.h"
 #include "PS2Mouse.h"
 
 PS2Mouse::PS2Mouse(int clock_pin, int data_pin, int mode) {
